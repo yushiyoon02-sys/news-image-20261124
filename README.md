@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/news-image-20261124/yushiyoon02-sys/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/yushiyoon02-sys/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-One newspaper front page summing up the world news of Tuesday 24 November 2026: Nvidia brings Jensen Huang back as CEO, an Oxfam report finds 99% of Gaza poisoned by war, Ukraine sinks a Russian warship off Libya, two US states sue Musk over Grok deepfakes, Russian strikes kill 14 in Kyiv region, the Indonesia factory fire toll rises to 24, and Rep. Gomez quits Congress after an ethics finding.
+One newspaper front page summing up the world news of Tuesday 24 November 2026: mines hit four tankers in the Strait of Hormuz, Houthis strike Riyadh's PIF tower a second time in a week, Israel kills Hamas security chief Naeem Abu Nahal in Gaza, a restaurant blast kills six in Hanoi, Trump gives Rudy Giuliani the Medal of Freedom, the UK sanctions the Houthis and four officials, and Russian jets force a shelter alert on Ulleungdo.
+
+Redo of the morning edition: the morning version carried stories first reported on 23 November (Oxfam Gaza report, the Merkury sinking, the Grok lawsuits, the Kyiv-region strikes, the Cikande factory fire). Every story in this edition was first reported on 24 November 2026, cross-checked against two or more sources.
 
 ## Run it
 
